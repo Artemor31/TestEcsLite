@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 617a6cbf8bda4192b77fadac7b3c4a84, type: 3}
+  m_Name: Configuration
+  m_EditorClassIdentifier: 
+  <CellViewPrefab>k__BackingField: {fileID: 1056524274346295733, guid: 6767ec4d3b939364cb9f1a0442e9c118, type: 3}
+  <GridSize>k__BackingField: {x: 3, y: 3}
+  <EvenMaterial>k__BackingField: {fileID: 2100000, guid: 614be9dfe1a5cac4d9cad4f7fe5f6f80, type: 2}
+  <NotEvenMaterial>k__BackingField: {fileID: 2100000, guid: 4f59bc96016742a428f5d6eff6e485e8, type: 2}
